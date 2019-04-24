@@ -29,6 +29,6 @@ Getting Started
     env/bin/pserve development.ini
 
 
-This project was created using cookiecutter from the command line
+This project was created on Ubuntu, using cookiecutter from the command line
 and the opening in Pycharm 2019.1.1
 
