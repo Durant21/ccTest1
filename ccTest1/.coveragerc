@@ -1,0 +1,3 @@
+[run]
+source = ccTest1
+omit = ccTest1/test*
